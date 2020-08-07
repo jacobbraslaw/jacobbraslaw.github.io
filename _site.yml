@@ -1,9 +1,9 @@
 name: "first website"
 output_dir: "."
 navbar:
-  title: "Website 1"
+  title: "Jacob"
   left:
-    -text: "home"
-    href: index.html
-    -text: "GIS WORK"
-    href: geog176A.html
+    - text: "home"
+      href: index.html
+    - text: "GIS WORK"
+      href: geog176A.html
