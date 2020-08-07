@@ -1,7 +1,21 @@
 ---
-title: "about me"
+title: "About Me"
 ---
 <center>
-# Hi, I'm Jacob
+
+# Hi, I'm Jacob Braslaw.
 </center>
-This is my website, welcome to the world website.
+  I am a fourth year Environmental Studies major at UC Santa Barbara. My interests are in large scale environmental action and medicine. In regards to environmental science my areas of study are primarily in renewable energy and GIS. I have worked with renewable energy designs and implementations through UCSB's Clean Energy Transformation Lab (CET Lab) run by Professor Deshmukh. In Spring of 2020 I led a GIS research project that analyzed how land attributes can affect turbine power generation. The title of the study is [The Analysis of Factors Affecting Wind Turbing Power Density](https://www.linkedin.com/feed/update/urn:li:activity:6680312682991747072/).  
+
+  When I am not typing away in R Studio I am often seen on the baseball field as a member of UCSB Club Baseball or found out of Sands beach surfing through sunset with my friends! 
+
+****
+****
+![](img/IMG_2876.jpg)
+
+****
+
+****
+
+
+
