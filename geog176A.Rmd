@@ -4,5 +4,5 @@ title: "Projects"
 <center>
 ### Geog 176A Projects 
   All Work Done Through R Studio
-
+ 
 ****
