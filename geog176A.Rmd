@@ -1,7 +1,8 @@
 ---
-title: "geog176A"
+title: "Projects"
 ---
+<center>
+### Geog 176A Projects 
+  All Work Done Through R Studio
 
-in summer 2020 took geog 176A
-##building website
-put my work here :)
+****

@@ -1,11 +1,12 @@
 name: "Jacob Braslaw Website"
 output_dir: "."
 navbar:
-  title: "Geography 176A"
+  title: "Personal Site"
   icon: fa-align-justify
 
   left:
-    - text: "Home"
+
+    - text: "About Me"
       icon: fa-home
       href: index.html
     - text: "Projects"
