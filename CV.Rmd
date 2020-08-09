@@ -1,30 +1,56 @@
 ---
-title: "CV"
-author: "JacobBraslaw"
-date: "8/9/2020"
-output: html_document
+title: "Curriculum Vitae"
+
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
-## R Markdown
+## Education
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
 
-```{r cars}
-summary(cars)
-```
+#### **University of California, Santa Barbara**  *2018-2020*
+<center>
+#### Environmental Studies B.S.
 
-## Including Plots
+* GPA- 3.91
+* Environmental Studies Program-Outstanding Academic Achievement Award
+* 6x Dean's List
 
-You can also embed plots, for example:
+#### **College of San Mateo**  *2016-2018*
+* GPA- 3.92
+* 4x Dean's List
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+****
+****
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+## Experience
+
+#### **Undergraduate Teacher Assistant** *July 2020 - September 2020*
+###### -  **ES 115, Enery and The Environment**, *UC Santa Barbara*
+* Assists Professor Lovering, PhD, with proof reading assignments
+* Grades homework, tests, and quizzes
+
+#### **Undergraduate Research Assistant** *September 2019 - March 2020* 
+###### - **PISCO LAB**, *UC Santa Barbara* 
+
+* Partnership for Interdisciplinary Studies of Coastal Oceans (PISCO), run by Dr. Jennifer Cassele
+* Collected and implemented samples in the field and analyzed data in the lab
+
+#### **Student Summer Researcher** *June 2019 - September 2019*
+###### **UCSF Benioff Children's Hospital**, *Oakland, California*
+* Conducted a study on femoral shaft fractures under the guidance of Dr. Coleen Sabatini, MD, MPH
+* Gathered and compiled data from medical records in addition to shadowing an orthopaedic surgeon daily
+* Currently working on publishing a manuscript of the research, findings from the study disagree with the current
+metrics used by US News and World Report to evaluate orthopaedic programs
+
+#### **Exhibit Interpreter** *September 2018 - May 2019*
+###### **Santa Barbara Museum of Natural History Sea Center**, *CA*
+* Educated museum visitors about the marine ecosystems found in the local ocean waters
+* Introduced the public into the research done at the Sea Center, such as species collection
+
+****
+****
+## Activities
+* UCSB Club Baseball - 1^st^ Team All Region
+* Member of UCSB Clean Energy Tranformation Lab
+* Intercollegiate Baseball at College of San Mateo
