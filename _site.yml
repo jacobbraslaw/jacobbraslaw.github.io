@@ -5,7 +5,6 @@ navbar:
   icon: fa-align-justify
 
   left:
-
     - text: "About Me"
       icon: fa-home
       href: index.html
