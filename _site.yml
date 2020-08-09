@@ -11,6 +11,10 @@ navbar:
     - text: "Projects"
       icon: fa-rocket
       href: geog176A.html
+    - text: "Resume/CV"
+      icon:
+      href: CV.html
+
   right:
     - icon: fa-github
       href: https://github.com/jacobbraslaw

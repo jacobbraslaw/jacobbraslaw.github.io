@@ -13,7 +13,7 @@ title: "About Me"
  
 ****
 ****
-![](/IMG_2876.jpeg) 
+![](IMG_2876.jpeg) 
 
 ****
 
