@@ -1,8 +1,19 @@
 ---
 title: "Projects"
 ---
-<center>
-### Geog 176A Projects 
+
+## Geog 176A Projects 
   All Work Done Through R Studio
  
 ****
+
+
+### Project 1
+### [COVID-19 Data Analysis](https://jacobbraslaw.github.io/geog-176A-labs/lab-02.html)
+- Found "safe" counties in California
+- Found highest cumulative, daily new, and 7 day rolling average of cases by county
+- Look at state level data in total cases and per capita
+
+****
+
+

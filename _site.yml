@@ -15,6 +15,7 @@ navbar:
       icon:
       href: CV.html
 
+
   right:
     - icon: fa-github
       href: https://github.com/jacobbraslaw
