@@ -17,7 +17,7 @@ title: "Projects"
 ****
 
 ### Project 2
-### [U.S Border Statistics]((https://jacobbraslaw.github.io/geog-176A-labs/lab-03.html))
+### [U.S Border Statistics](https://jacobbraslaw.github.io/geog-176A-labs/lab-03.html)
 - Looks at areas and populations within 100 miles from any US Border
 - Majority of Americans live within 100 miles of the national border
 - Identify every city in which US Border Patrol has jurisdiction
