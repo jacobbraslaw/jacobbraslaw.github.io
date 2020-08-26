@@ -17,9 +17,21 @@ title: "Projects"
 ****
 
 ### Project 2
-### [U.S Border Statistics](https://jacobbraslaw.github.io/geog-176A-labs/lab-03.html)
+### [U.S Border Statistics](https://jacobbraslaw.github.io/geog-176A-labs/lab-02.html)
 
 - Looks at areas and populations within 100 miles from any US Border
 - Majority of Americans live within 100 miles of the national border
 - Identify every city in which US Border Patrol has jurisdiction
+
+**** 
+### Project 3
+### [Wind Turbine Power Density Analysis](https://www.linkedin.com/feed/update/urn:li:activity:6680312682991747072/)
+- Determined the effect of land factors on power density (w/m^2^) of wind turbines with regression analysis
+- From analysis, located ideal place to construct future wind turbine facility to meet needs of Kern County
+
+****
+### Project 4
+### [Arizona Solar Panels](https://storymaps.arcgis.com/stories/5b465fe567d24cd2959fbd4d54a4fd38) 
+- Based on data layers from electrical grids, wildlife, DEM, solar radiation, and cities a solar suitabilty map was generated.
+- Ideal location for photovoltaic panels was determined based upon the generated suitability data layer.
 
