@@ -2,8 +2,8 @@
 title: "Projects"
 ---
 
-## Geog 176A Projects 
-  All Work Done Through R Studio
+## UCSB Research and Course Work
+  All Work Done Through R Studio and ArcMap Pro
  
 ****
 
