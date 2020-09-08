@@ -39,6 +39,14 @@ title: "Projects"
 ### Project 5
 ### [US National Dam Tessalations](https://jacobbraslaw.github.io/geog-176A-labs/lab-04.html)
 
--Look at different tessalations of US County lines to identify modifiable arial unit problems
--Analysis on dams to find where the highest dam counts are based on uses of dams
+- Look at different tessalations of US County lines to identify modifiable arial unit problems
+- Analysis on dams to find where the highest dam counts are based on uses of dams
+
+****
+### Project 6
+### [Raster Flood Analysis](https://jacobbraslaw.github.io/geog-176A-labs/lab-05.html)
+
+- Looked at landsat imagery 
+- Remote sensing analysis to discover where flooded land was in Palo, Iowa
+
 
