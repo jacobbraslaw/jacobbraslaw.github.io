@@ -77,7 +77,7 @@ slickR(obj = teamImg,slideId = 'ex1',height = 100,width='100%')
 - Remote sensing analysis to discover where flooded land was in Palo, Iowa
 
 <center>
-![](flood.png){width=60%}
+![](flood.png){width=40%}
 
 **** 
 ### Project 6
@@ -86,7 +86,7 @@ slickR(obj = teamImg,slideId = 'ex1',height = 100,width='100%')
 
 - From analysis, located ideal place to construct future wind turbine facility to meet needs of Kern County
 <center>
-![](windturbine.png){width=60%}
+![](windturbine.png){width=50%}
 
 ****
 ### Project 7
@@ -95,7 +95,7 @@ slickR(obj = teamImg,slideId = 'ex1',height = 100,width='100%')
 
 - Ideal location for photovoltaic panels was determined based upon the generated suitability data layer.
 <center>
-![](arizona.png){width=60%}
+![](arizona.png){width=50%}
 
 ****
 ### Project 8 
