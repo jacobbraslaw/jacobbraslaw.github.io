@@ -11,16 +11,51 @@ title: "About Me"
 
   When I am not in the library(currently my shelter in place room) working, I am often seen on the baseball field as a member of UCSB Club Baseball or found out at Sands Beach surfing through sunset with my friends! 
  
-****
-****
-![](IMG_1839.jpg)
+
 
 ****
-![](IMG_2876.jpeg)
+![](beach.jpg)
 
 ****
 
+<center> 
+
+### *Where I'm From*
+
+I grew up in Pacifica, CA, a small coastal town 20 miles south of San Francisco. I went to [Terra Nova High 
+School](https://www.juhsd.net/tnhs) then attended [College of San Mateo](https://smccd.edu/) where I completed my general education with a biology focus and participated in intercollegiate baseball. In 2018 I transferred to [UC Santa Barbara](https://www.ucsb.edu/) and plan to graduate in December 2020.
+
+```{r, echo=FALSE, message=FALSE , warning=FALSE}
+library(leaflet)
+library(tidyverse)
+library(sf)
+library(rmapshaper)
+
+places <- USAboundaries::us_cities() %>% 
+  filter(city %in% c("Pacifica", "Santa Barbara", "San Mateo")) %>% 
+  st_as_sf() %>% 
+  st_transform(4326)
+
+city<- c("Santa Barbara", "Pacifica","San Mateo")
+feature<- c( "UC Santa Barbara","Hometown", "College of San Mateo")
+
+travels<- data.frame(city,feature)
+places<-full_join(places,travels, by = "city")
+
+
+
+leaflet(width= "100%") %>% 
+  addProviderTiles(providers$Esri)%>% addMarkers(data = places, label = ~city, popup = ~feature)
+```
+
+
 ****
+
+
+
+****
+
+
 
 
 
