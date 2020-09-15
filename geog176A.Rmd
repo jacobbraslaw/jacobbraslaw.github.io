@@ -2,9 +2,6 @@
 title: "Projects"
 ---
 
-
-
-
 ## UCSB Research and Course Work
   All Work Done Through R Studio and ArcMap Pro
  
@@ -79,8 +76,17 @@ slickR(obj = teamImg,slideId = 'ex1',height = 100,width='100%')
 
 <center>
 ![](flood.png){width=60%}
+****
+
+### Project 5
+### [Flood Risk in Mission Creek](https://jacobbraslaw.github.io/geog-176A-labs/lab-06.html)
+
+- test
+
+- test
 
 **** 
+
 ### Project 6
 ### [Wind Turbine Power Density Analysis](https://www.linkedin.com/feed/update/urn:li:activity:6680312682991747072/)
 - Determined the effect of land factors on power density (w/m^2^) of wind turbines with regression analysis
@@ -109,62 +115,11 @@ slickR(obj = teamImg,slideId = 'ex1',height = 100,width='100%')
 
 <center>
 ![](baseabll.png){width=60%}
-=======
 
-- Identify every city in which US Border Patrol has jurisdiction
 
-<center>
-![](border.png){width=60%}
 
-****
-### Project 3
-### [US National Dam Tessalations](https://jacobbraslaw.github.io/geog-176A-labs/lab-04.html)
 
-- Look at different tessalations of US County lines to identify modifiable arial unit problems
 
-- Analysis on dams to find where the highest dam counts are based on uses of dams
 
-<center>
-![](dams.png){width=60%}
 
-****
-### Project 4
-### [Raster Flood Analysis](https://jacobbraslaw.github.io/geog-176A-labs/lab-05.html)
 
-- Looked at landsat imagery 
-
-- Remote sensing analysis to discover where flooded land was in Palo, Iowa
-
-<center>
-![](flood.png){width=40%}
-
-**** 
-### Project 6
-### [Wind Turbine Power Density Analysis](https://www.linkedin.com/feed/update/urn:li:activity:6680312682991747072/)
-- Determined the effect of land factors on power density (w/m^2^) of wind turbines with regression analysis
-
-- From analysis, located ideal place to construct future wind turbine facility to meet needs of Kern County
-<center>
-![](windturbine.png){width=50%}
-
-****
-### Project 7
-### [Arizona Solar Panels](https://storymaps.arcgis.com/stories/5b465fe567d24cd2959fbd4d54a4fd38) 
-- Based on data layers from electrical grids, wildlife, DEM, solar radiation, and cities a solar suitabilty map was generated.
-
-- Ideal location for photovoltaic panels was determined based upon the generated suitability data layer.
-<center>
-![](arizona.png){width=50%}
-
-****
-### Project 8 
-### [Do Baseball Players Earn Their Salary?](https://jacobbraslaw.github.io/geog-176A-labs/lab-stats.html)
-- Used 2016 offensive hitting statistics and salary data to compare high and low paid players
-
-- Analysis used T-test, Wilcox Rank Sum, Linear Models, ANOVA, Tukey-Kramer, Generalized Linear Models
-
-- conclusion: As MLB hall of famer Jeff Kent once said, "the money lies in the RBI's"
->>>>>>> c8656cc7720784424703a981a91e93ab8891d756
-
-<center>
-![](baseabll.png){width=60%}
