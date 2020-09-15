@@ -9,7 +9,7 @@ title: "About Me"
 
   I am a senior Environmental Science major at UC Santa Barbara. My interests are in large scale environmental action and medicine. In regards to environmental science my areas of study are primarily in renewable energy and GIS. I have worked with renewable energy designs and implementations through UCSB's Clean Energy Transformation Lab (CET Lab) run by Professor Deshmukh. 
   
-Currently I work as teaching assistant for Environmental Studies 115, Energy and the Environment. The course focuses on introduction to the mechanical power generating systems and varying efficiencies of types of systems.
+Currently I work as teaching assistant for Environmental Studies 115, Energy and the Environment. The course focuses on introduction to the mechanical power generating systems and varying efficiencies of systems.
 
 During the summer of 2020 I completed two courses that use R and R studio. I have become proficient in using R for both statistical and geographical analysis. Geographical analysis skills I learned include data manipulation, analysis with raster and vector data, writing functions, and creating maps.
 
