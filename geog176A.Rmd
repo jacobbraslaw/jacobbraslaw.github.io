@@ -2,17 +2,46 @@
 title: "Projects"
 ---
 
+
+
+
 ## UCSB Research and Course Work
   All Work Done Through R Studio and ArcMap Pro
  
 ****
+```{r, echo=FALSE, message=FALSE}
+library(slickR)
+library(tidyverse)
+library(readxl)
+library(rvest)
+library(reshape)
 
+#NBA Team Logos
+nbaTeams=c("ATL","BOS","BKN","CHA","CHI","CLE","DAL","DEN","DET","GSW",
+    "HOU","IND","LAC","LAL","MEM","MIA","MIL","MIN","NOP","NYK",
+    "OKC","ORL","PHI","PHX","POR","SAC","SAS","TOR","UTA","WAS")
+
+teamImg=sprintf("https://i.cdn.turner.com/nba/nba/.element/img/4.0/global/logos/512x512/bg.white/svg/%s.svg",nbaTeams)
+
+
+
+slickR(obj = teamImg,slideId = 'ex1',height = 100,width='100%')
+
+
+```
+
+****
 
 ### Project 1
 ### [COVID-19 Data Analysis](https://jacobbraslaw.github.io/geog-176A-labs/lab-02.html)
 - Found "safe" counties in California
+
 - Found highest cumulative, daily new, and 7 day rolling average of cases by county
+
 - Look at state level data in total cases and per capita
+
+<center>
+![](covid.png){width=60%}
 
 ****
 
@@ -20,33 +49,63 @@ title: "Projects"
 ### [U.S Border Statistics](https://jacobbraslaw.github.io/geog-176A-labs/lab-03.html)
 
 - Looks at areas and populations within 100 miles from any US Border
+
 - Majority of Americans live within 100 miles of the national border
+
 - Identify every city in which US Border Patrol has jurisdiction
 
-**** 
+<center>
+![](border.png){width=60%}
+
+****
 ### Project 3
-### [Wind Turbine Power Density Analysis](https://www.linkedin.com/feed/update/urn:li:activity:6680312682991747072/)
-- Determined the effect of land factors on power density (w/m^2^) of wind turbines with regression analysis
-- From analysis, located ideal place to construct future wind turbine facility to meet needs of Kern County
-
-****
-### Project 4
-### [Arizona Solar Panels](https://storymaps.arcgis.com/stories/5b465fe567d24cd2959fbd4d54a4fd38) 
-- Based on data layers from electrical grids, wildlife, DEM, solar radiation, and cities a solar suitabilty map was generated.
-- Ideal location for photovoltaic panels was determined based upon the generated suitability data layer.
-
-****
-### Project 5
 ### [US National Dam Tessalations](https://jacobbraslaw.github.io/geog-176A-labs/lab-04.html)
 
 - Look at different tessalations of US County lines to identify modifiable arial unit problems
+
 - Analysis on dams to find where the highest dam counts are based on uses of dams
 
+<center>
+![](dams.png){width=60%}
+
 ****
-### Project 6
+### Project 4
 ### [Raster Flood Analysis](https://jacobbraslaw.github.io/geog-176A-labs/lab-05.html)
 
 - Looked at landsat imagery 
+
 - Remote sensing analysis to discover where flooded land was in Palo, Iowa
 
+<center>
+![](flood.png){width=60%}
+
+**** 
+### Project 6
+### [Wind Turbine Power Density Analysis](https://www.linkedin.com/feed/update/urn:li:activity:6680312682991747072/)
+- Determined the effect of land factors on power density (w/m^2^) of wind turbines with regression analysis
+
+- From analysis, located ideal place to construct future wind turbine facility to meet needs of Kern County
+<center>
+![](windturbine.png){width=60%}
+
+****
+### Project 7
+### [Arizona Solar Panels](https://storymaps.arcgis.com/stories/5b465fe567d24cd2959fbd4d54a4fd38) 
+- Based on data layers from electrical grids, wildlife, DEM, solar radiation, and cities a solar suitabilty map was generated.
+
+- Ideal location for photovoltaic panels was determined based upon the generated suitability data layer.
+<center>
+![](arizona.png){width=60%}
+
+****
+### Project 8 
+### [Do Baseball Players Earn Their Salary?](https://jacobbraslaw.github.io/geog-176A-labs/lab-stats.html)
+- Used 2016 offensive hitting statistics and salary data to compare high and low paid players
+
+- Analysis used T-test, Wilcox Rank Sum, Linear Models, ANOVA, Tukey-Kramer, Generalized Linear Models
+
+- conclusion: As MLB hall of famer Jeff Kent once said, "the money lies in the RBI's"
+
+<center>
+![](baseabll.png){width=60%}
 
