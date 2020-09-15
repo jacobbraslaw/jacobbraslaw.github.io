@@ -63,6 +63,8 @@ slickR(obj = teamImg,slideId = 'ex1',height = 100,width='100%')
 
 - Analysis on dams to find where the highest dam counts are based on uses of dams
 
+- Point in polygon function to idenditfy number of dams in counties
+
 <center>
 ![](dams.png){width=60%}
 
@@ -70,9 +72,11 @@ slickR(obj = teamImg,slideId = 'ex1',height = 100,width='100%')
 ### Project 4
 ### [Raster Flood Analysis](https://jacobbraslaw.github.io/geog-176A-labs/lab-05.html)
 
-- Looked at landsat imagery 
+- Read in web based landsat imagery of Palo, Iowa during a flood with the goal of locating flooded regions
 
-- Remote sensing analysis to discover where flooded land was in Palo, Iowa
+- Using remote sensing data, function created to manipulated bands in satelite images to produce water oriented raster images
+
+- Tested 5 different flooding index function and compared accuracy
 
 <center>
 ![](flood.png){width=60%}
@@ -81,14 +85,21 @@ slickR(obj = teamImg,slideId = 'ex1',height = 100,width='100%')
 ### Project 5
 ### [Flood Risk in Mission Creek](https://jacobbraslaw.github.io/geog-176A-labs/lab-06.html)
 
-- test
+- Analyzed the Santa Barbara basin to understand how floods will effect infastructure
 
-- test
+- Using raster and vector data all points within basin can be indentified relative to nearest stream elevation
+
+- GIF created that shows flooding effects at 20 different flood levels
+
+<center>
+![](basin.png){width=60%}
+
 
 **** 
 
 ### Project 6
 ### [Wind Turbine Power Density Analysis](https://www.linkedin.com/feed/update/urn:li:activity:6680312682991747072/)
+
 - Determined the effect of land factors on power density (w/m^2^) of wind turbines with regression analysis
 
 - From analysis, located ideal place to construct future wind turbine facility to meet needs of Kern County
@@ -98,6 +109,7 @@ slickR(obj = teamImg,slideId = 'ex1',height = 100,width='100%')
 ****
 ### Project 7
 ### [Arizona Solar Panels](https://storymaps.arcgis.com/stories/5b465fe567d24cd2959fbd4d54a4fd38) 
+
 - Based on data layers from electrical grids, wildlife, DEM, solar radiation, and cities a solar suitabilty map was generated.
 
 - Ideal location for photovoltaic panels was determined based upon the generated suitability data layer.
@@ -107,6 +119,7 @@ slickR(obj = teamImg,slideId = 'ex1',height = 100,width='100%')
 ****
 ### Project 8 
 ### [Do Baseball Players Earn Their Salary?](https://jacobbraslaw.github.io/geog-176A-labs/lab-stats.html)
+
 - Used 2016 offensive hitting statistics and salary data to compare high and low paid players
 
 - Analysis used T-test, Wilcox Rank Sum, Linear Models, ANOVA, Tukey-Kramer, Generalized Linear Models
