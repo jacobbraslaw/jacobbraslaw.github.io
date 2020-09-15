@@ -13,7 +13,7 @@ Currently I work as teaching assistant for Environmental Studies 115, Energy and
 
 During the summer of 2020 I completed two courses that use R and R studio. I have become proficient in using R for both statistical and geographical analysis. Geographical analysis skills I learned include data manipulation, analysis with raster and vector data, writing functions, and creating maps.
 
-If you are interested in working with, or want to contact me, you can reach out at [jacobbraslaw@ucsb.edu](jacobbraslaw@ucsb.edu)
+If you are interested in working with, or want to contact me, you can reach out at <jacobbraslaw@ucsb.edu>
 
   When I am not in the library working, I am often seen on the baseball field as a member of UCSB Club Baseball or found out at Sands Beach surfing through sunset with my friends! 
  
