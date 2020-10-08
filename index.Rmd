@@ -18,8 +18,8 @@ If you are interested in working with, or want to contact me, you can reach out 
   When I am not in the library working, I am often seen on the baseball field as a member of UCSB Club Baseball or found out at Sands Beach surfing through sunset with my friends! 
  
 ****
-
-![](zion.jpg)
+<center>
+![](zion.jpg){width=75%}
 
 ****
 
