@@ -12,20 +12,25 @@ title: "Curriculum Vitae"
 <center>
 #### Environmental Studies B.S.
 
-* GPA- 3.91 
+* GPA- 3.92 
 * Graduated Summa Cum Laude
 * Environmental Studies Program-Outstanding Academic Achievement Award
 * 6x Dean's List
 
 #### **College of San Mateo**  *2016-2018*
-* GPA- 3.92
+* GPA- 3.91
 
 ****
 ****
 
 ## Experience
+#### **Undergraduate Researcher** *September 2020 - Present*
+###### -  **Geography Department**, *UC Santa Barbara*
+* Collaborative research team under PhD candidate Mike Johnson to find potential flooding impacts across the United States
+* Working to create new data set of hieght above nearest drainage that will be used to predict impact based on flood severity
 
-#### **Undergraduate Teaching Assistant** *July 2020 - September 2020*
+
+#### **Undergraduate Teaching Assistant** *July 2020 - Present*
 ###### -  **ENV S 115, Energy and The Environment**, *UC Santa Barbara*
 * Assists Professor Lovering, PhD, with proof reading assignments
 * Grades homework, tests, and quizzes
