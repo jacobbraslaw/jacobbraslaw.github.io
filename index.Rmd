@@ -7,15 +7,19 @@ title: "About Me"
 # Hi, I'm Jacob Braslaw.
 </center>
 
-  I am a senior Environmental Science major at UC Santa Barbara. My interests are in large scale environmental action and medicine. In regards to environmental science my areas of study are primarily in renewable energy and GIS. I have worked with renewable energy designs and implementations through UCSB's Clean Energy Transformation Lab (CET Lab) run by Professor Deshmukh. 
+
+  I am a engineering student at College of San Mateo. My interests are in large scale environmental action and increased efficiency of resource consumption. I have a background in data science and spatial analysis and am seeking to bridge the gap between traditional engineering and data analytics. 
   
-Currently I work as teaching assistant for Environmental Studies 115, Energy and the Environment. The course focuses on introducing the mechanics, thermodynamic principles, and efficiencies of common power generating systems.
+  Currently I work as a staff data scientist for ERM (Environmental Resources Management). I specialize in  using R for statistical and spatial analyses. We typically conduct the numerical analysis for our project teams at and present the analysis in visually appealing manner for our clients. We leverage the use of shiny, Rmarkdown, and python dash to produce user friendly outputs that allow for efficiently interpreting the results. 
+  
 
-During the summer of 2020 I completed two courses that use R and R studio. I have become proficient in using R for both statistical and geographical analysis. Geographical analysis skills I learned include data manipulation, analysis with raster and vector data, writing functions, and creating maps.
+If you are interested in contacting me, you can reach out at <jacobbraslaw@ucsb.edu>
 
-If you are interested in working with, or want to contact me, you can reach out at <jacobbraslaw@ucsb.edu>
+If you would like to discuss data analytics please navigate to PlzAnalytics consulting.
+[PlzAnalytics](https://plzanalytics.github.io/PlzAnalyticsSite/index.html)
 
-  When I am not in the library working, I am often seen on the baseball field as a member of UCSB Club Baseball or found out at Sands Beach surfing through sunset with my friends! 
+
+  When I am not in the library working, I am often seen in rec sports leagues exploring the outdoors with friends! 
  
 ****
 <center>
